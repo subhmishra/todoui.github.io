@@ -1,0 +1,126 @@
+.todo-container {
+    display: flex;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+  }
+  
+  .first-line {
+    border: 1px solid grey;
+    height: 0px;
+    width: 9em;
+    margin-top: 3.4em;
+    margin-left: 20em;
+  }
+  
+  .second-line {
+    border: 1px solid grey;
+    height: 0px;
+    width: 9em;
+    margin-top: 3.4em;
+    margin-left: 3em;
+  }
+  .trip-to-paris {
+    font-family: sans-serif;
+    margin-left: 1em;
+    font-size: 2.8em;
+  }
+  .back-btn {
+    margin-left: 23em;
+    margin-top: 1em;
+    color: orangered;
+    font-size: 1.6em;
+    filter: blur(8px);
+  }
+  .back {
+    color: grey;
+    margin-left: 0.7em;
+    filter: blur(8px);
+  }
+  .box-container {
+    border: 2px solid orangered;
+    width: 23em;
+    height: 24em;
+    margin-left: 29em;
+    margin-top: 3em;
+    border-radius: 10px;
+    filter: blur(8px);
+  }
+  
+  .tot {
+    font-family: sans-serif;
+    color: orangered;
+  }
+  .line {
+    width: 17em;
+    margin-left: 6em;
+  }
+  .strike {
+    margin-top: 2em;
+    margin-left: 4em;
+  }
+  .chk {
+    height: 25px;
+    width: 25px;
+    margin-left: 5em;
+    margin-top: 1em;
+  }
+  .pt {
+    font-size: 1em;
+    margin-left: 0.5em;
+    margin-bottom: 1em;
+    font-family: sans-serif;
+  }
+  .plus {
+    margin-top: 3.4em;
+    margin-left: 10em;
+    font-size: 2em;
+    color: orangered;
+  }
+  .popup-box{
+
+    border: 2px solid lightsalmon;
+    background-color: white;
+    height: 12em;
+    width: 22em;
+    border-radius: 10px;
+    margin-left: 5em;
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    box-shadow: 4px 4px lightgrey;
+    
+
+}
+.add-new-list{
+    margin-left: 4em;
+    font-family: sans-serif;
+    color: lightsalmon;
+}
+.textbox{
+    margin-left: 4em;
+    height: 2em;
+    width: 18em;
+}
+.add-btn{
+    margin-left:10em;
+    color: white;
+    background-color: orangered;
+    border-radius: 10px;
+    height: 2.5em;
+    width: 5em;
+    border: none;
+    
+}
+.page1{
+  margin-left: 40em;
+  margin-top: 2em;
+}
+.one{
+margin-left: 2em;
+
+}
+.page-ref{
+margin-top: 2em;
+}
+
+  

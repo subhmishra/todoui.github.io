@@ -1,0 +1,138 @@
+.todo-container{
+    margin-top: 5em;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    }
+    
+    .header{
+    
+    display: flex;
+    } 
+    
+    
+    .fir-word {
+      font-family: sans-serif;
+      margin-left: 8em;
+      font-size: 40px;
+      
+    }
+    .sec-word {
+      color: gray;
+    }
+    .add-list
+    {
+        color: gray;
+        font-family: sans-serif;
+        margin-left: 10em;
+        margin-top: 30px;
+        
+    }
+    
+    #icon{
+      color: orangered;
+    }
+    .box-container{
+      
+      display: flex;
+      padding: 10px;
+      margin-left: 18em;
+    }
+    .first-box
+    {
+      border: 2px solid lightsalmon;
+      border-radius: 7px;
+      height: 20em;
+      width: 13em;
+      box-shadow: 5px 5px lightgray;
+      
+    }
+    .second-box
+    {
+      border: 2px solid lightsalmon;
+      border-radius: 7px;
+      margin-left: 4em;
+      height: 20em;
+      width: 13em;
+      box-shadow: 5px 5px lightgray;
+      
+      
+    }
+    .third-box
+    {
+      border: 2px solid lightsalmon;
+      border-radius: 7px;
+      margin-left: 4em;
+      height: 20em;
+      width: 13em;
+      box-shadow: 5px 5px lightgray;
+      
+    }
+    .box-header{
+      align-items: center;
+      font-family: sans-serif;
+    }
+    .line{
+      width: 80%;
+      margin-left: 2.5em;
+    }
+    .task{
+      color: orangered;
+      margin-left: 1.5em;
+      margin-top: 2em;
+    }
+    .check{
+     height: 18px;
+     width: 18px;
+    }
+    .pt{
+        font-size: 1.3em;
+    }
+    .popup-box{
+
+        border: 2px solid lightsalmon;
+        background-color: white;
+        height: 12em;
+        width: 22em;
+        border-radius: 10px;
+        margin-left: 5em;
+        position: absolute;
+        top: 30%;
+        left: 30%;
+        box-shadow: 4px 4px lightgrey;
+        
+    
+        
+
+    }
+    .add-new-list{
+        margin-left: 4em;
+        font-family: sans-serif;
+        color: lightsalmon;
+    }
+    .textbox{
+        margin-left: 4em;
+        height: 2em;
+        width: 18em;
+    }
+    .add-btn{
+        margin-left:10em;
+        color: white;
+        background-color: orangered;
+        border-radius: 10px;
+        height: 2.5em;
+        width: 5em;
+        border: none;
+        
+    }
+    .page1{
+      margin-left: 40em;
+      margin-top: 2em;
+    }
+    .one{
+    margin-left: 2em;
+    
+    }
+    .page-ref{
+    margin-top: 2em;
+    }
+    

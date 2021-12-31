@@ -1,0 +1,98 @@
+.todo-container{
+margin-top: 5em;
+}
+
+.header{
+
+display: flex;
+} 
+
+
+.fir-word {
+  font-family: sans-serif;
+  margin-left: 8em;
+  font-size: 40px;
+  
+}
+.sec-word {
+  color: gray;
+}
+.add-list
+{
+    color: gray;
+    font-family: sans-serif;
+    margin-left: 10em;
+    margin-top: 30px;
+    
+}
+
+#icon{
+  color: orangered;
+}
+.box-container{
+  
+  display: flex;
+  padding: 10px;
+  margin-left: 18em;
+}
+.first-box
+{
+  border: 2px solid orangered;
+  border-radius: 7px;
+  height: 20em;
+  width: 13em;
+  box-shadow: 5px 5px lightgray;
+  
+}
+.second-box
+{
+  border: 2px solid orangered;
+  border-radius: 7px;
+  margin-left: 4em;
+  height: 20em;
+  width: 13em;
+  box-shadow: 5px 5px lightgray;
+  
+  
+}
+.third-box
+{
+  border: 2px solid orangered;
+  border-radius: 7px;
+  margin-left: 4em;
+  height: 20em;
+  width: 13em;
+  box-shadow: 5px 5px lightgray;
+  
+}
+.box-header{
+  align-items: center;
+  font-family: sans-serif;
+}
+.line{
+  width: 80%;
+  margin-left: 2.5em;
+}
+.task{
+  color: orangered;
+  margin-left: 1.5em;
+  margin-top: 2em;
+}
+.check{
+ height: 18px;
+ width: 18px;
+}
+.pt{
+    font-size: 1.3em;
+}
+.page1{
+     margin-left: 40em;
+     margin-top: 2em;
+}
+.one{
+  margin-left: 2em;
+ 
+}
+.page-ref{
+  margin-top: 2em;
+}
